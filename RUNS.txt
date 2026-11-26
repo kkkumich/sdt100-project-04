@@ -1,0 +1,52 @@
+===== part1_loops.Main.txt =====
+COMMAND: java -cp build part1_loops.Main
+INPUT (demo data):
+
+OUTPUT:
+1 2 3 
+1 2 3 
+1 2 3 4 5 6 7 8 9 10 
+10 9 8 7 5 4 3 2 1 
+J
+a
+v
+a
+Row 1: 1 2 3 
+Row 2: 2 4 6 
+Row 3: 3 6 9 
+
+
+===== part2_uppercase.Main.txt =====
+COMMAND: java -cp build part2_uppercase.Main
+INPUT (demo data):
+hello
+y
+Java
+n
+
+OUTPUT:
+Enter any string: HELLO
+Continue? (Y/N): Enter any string: JAVA
+Continue? (Y/N): 
+
+===== part3_reverse.Main.txt =====
+COMMAND: java -cp build part3_reverse.Main
+INPUT (demo data):
+Java
+n
+
+OUTPUT:
+Enter any string: avaJ
+Continue? (Y/N): 
+
+===== part4_repeated_recommender.Main.txt =====
+COMMAND: java -cp build part4_repeated_recommender.Main
+INPUT (demo data):
+Demo
+20
+fantasy
+n
+
+OUTPUT:
+Your name: Age (0-120): Genre (detective/fantasy/non-fiction/other): Demo, try reading: The Lord of the Rings
+Continue? (Y/N): 
